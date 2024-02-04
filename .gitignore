@@ -1,0 +1,35 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.sublime-*
+
+# Node modules
+node_modules/
+
+# Build outputs
+/dist
+/tmp
+/out
+/build
+
+# Logs
+*.log
+
+# Dependency directories
+bower_components/
+
+# Env files
+.env
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Compiled files
+*.o
+*.pyc
+*.class
