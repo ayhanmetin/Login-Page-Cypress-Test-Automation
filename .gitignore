@@ -28,8 +28,3 @@ bower_components/
 # Lock files
 package-lock.json
 yarn.lock
-
-# Compiled files
-*.o
-*.pyc
-*.class
