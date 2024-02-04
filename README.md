@@ -2,6 +2,8 @@
 
 This document outlines the Cypress test cases developed for the login functionality, ensuring both positive and negative scenarios are covered for robust validation.
 
+[Go to Tests](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/tree/main/cypress/cypress_LoginPage_ScreenShot)
+
 ## Test Case 1: Positive LogIn Test
 
 Verifies successful login with correct username and password.
