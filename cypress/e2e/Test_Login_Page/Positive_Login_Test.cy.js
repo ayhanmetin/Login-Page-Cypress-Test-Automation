@@ -14,5 +14,6 @@ describe('Positive LogIn Test', () => {
 
     // Now check for the "Log out" button
     cy.contains('button', 'Log out', { timeout: 10000 }).should('be.visible');
+    
   });
 });
