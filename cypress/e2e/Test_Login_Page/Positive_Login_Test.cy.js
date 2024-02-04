@@ -3,8 +3,8 @@ describe('Positive LogIn Test', () => {
     cy.visit('https://www.ayhanmetin.eu/practice/loginpage');
 
     // Enter username and password
-    cy.get('input[type="text"]').type('ayhan89');
-    cy.get('input[type="password"]').type('ayhan123');
+    cy.get('input[type="text"]').type("ayhan89");
+    cy.get('input[type="password"]').type("ayhan123");
 
     // Click the submit button to log in
     cy.get('button[type="submit"]').click();
@@ -14,6 +14,6 @@ describe('Positive LogIn Test', () => {
 
     // Now check for the "Log out" button
     cy.contains('button', 'Log out', { timeout: 10000 }).should('be.visible');
-    
+
   });
 });
