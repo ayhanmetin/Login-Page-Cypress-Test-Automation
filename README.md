@@ -42,7 +42,7 @@ Confirms that leaving the password field empty triggers an error message.
 
 ![Password Field Validation](./cypress/cypress_LoginPage_ScreenShot/Password_Field_Validation.png)
 
-[Go to code](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/blob/main/cypress/e2e/Test_Login_Page/Password_Field_Validation_Test.cy.js)
+[Go to code](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/blob/main/cypress/e2e/Test_Login_Page/Password_Field_Validation.cy.js)
 
 ## Test Case 6: Password Strength Test
 
