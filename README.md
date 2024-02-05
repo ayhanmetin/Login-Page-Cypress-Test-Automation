@@ -18,7 +18,7 @@ Checks the behavior when an incorrect username is entered.
 
 ![Negative Username Test](./cypress/cypress_LoginPage_ScreenShot/Negative_Username.png)
 
-[Go to code](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/blob/main/cypress/e2e/Test_Login_Page/Negative_Username_Test.cy.js)
+[Go to code](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/blob/main/cypress/e2e/Test_Login_Page/Negative_Username_%20Test.cy.js)
 
 ## Test Case 3: Negative Password Test
 
