@@ -4,7 +4,16 @@ This document outlines the Cypress test cases developed for the login functional
 
 [Go to tests](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/tree/main/cypress/cypress_LoginPage_ScreenShot)
 
-## Test Case 1: Positive LogIn Test
+## Test Cases
+
+*Positive Login Test
+*Negative Username Test
+*Negative Password Test
+*Username Field Validation
+*Password Strength Test
+*Password Field Validation
+
+## Test Case 1: Positive Login Test
 
 Verifies successful login with correct username and password.
 
@@ -45,6 +54,7 @@ Confirms that leaving the password field empty triggers an error message.
 [Go to code](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/blob/main/cypress/e2e/Test_Login_Page/Password_Field_Validation.cy.js)
 
 ## Test Case 6: Password Strength Test
+
 
 Tests the application's password strength validation by entering a weak password.
 
