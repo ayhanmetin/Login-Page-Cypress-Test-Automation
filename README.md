@@ -1,17 +1,19 @@
-# Cypress Test Cases for Login Page
+# Cypress Tests for Login Page
 
 This document outlines the Cypress test cases developed for the login functionality, ensuring both positive and negative scenarios are covered for robust validation.
 
+### Test Cases
+
+- Positive Login Test
+- Negative Username Test
+- Negative Password Test
+- Username Field Validation
+- Password Strength Test
+- Password Field Validation
+
+
 [Go to tests](https://github.com/ayhanmetin/Login-Page-Cypress-Test-Automation/tree/main/cypress/cypress_LoginPage_ScreenShot)
 
-## Test Cases
-
-*Positive Login Test
-*Negative Username Test
-*Negative Password Test
-*Username Field Validation
-*Password Strength Test
-*Password Field Validation
 
 ## Test Case 1: Positive Login Test
 
